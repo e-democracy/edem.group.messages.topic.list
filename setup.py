@@ -39,6 +39,7 @@ setup(
         'setuptools',
         'edem.skin',
         # -*- Extra requirements: -*-
+        'gs.group.messages.base',
         'gs.group.messages.topic.list'
     ],
     entry_points="""
